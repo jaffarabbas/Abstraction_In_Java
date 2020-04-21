@@ -8,7 +8,8 @@ abstract class ones{
 
 class child extends ones{
     void one1(){
-        System.out.println("hello");
+        var var1 = "jelldfsd";
+        System.out.println("hello"+var1);
     }
     void one2(){
         System.out.println("hello");
